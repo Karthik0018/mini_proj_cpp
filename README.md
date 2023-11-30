@@ -1,1 +1,1 @@
-# mini_proj_cpp
+#this is a miniproject done in summer internship
